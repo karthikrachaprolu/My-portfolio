@@ -1,0 +1,1 @@
+Add certificate images/PDFs here and update the certificate cards in index.html.
